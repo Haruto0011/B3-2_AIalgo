@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# 出力
+figures/
+
+# OS / エディタ
+.DS_Store
+.vscode/
